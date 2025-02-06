@@ -24,7 +24,7 @@ A partir de mes BDD nodes et edges, j'ai ensuite créé un graphe sur gephi pour
 
 ### Mes cartes sur RStudio
 
-La dernière étape de mon travail a été de réaliser la carte interactive. J'en ai d'abord obtenu une première version (map1), que j'ai tenté d'enrichir sur une seconde version (map2) sans succès. Au lieu de la supprimer, j'ai trouvé plus intéressant de la conserver et de vous la partager. Le détail des problèmes est énoncé dans ma vidéo. 
+La dernière étape de mon travail a été de réaliser la carte interactive. J'en ai d'abord obtenu une première version (map1), que j'ai tenté d'enrichir sur une seconde version (map2) sans succès. Au lieu de la supprimer, j'ai trouvé plus intéressant de la conserver et de vous la partager. Le détail des problèmes que j'ai rencontré est énoncé dans ma vidéo. 
 Une fois terminée et enregistrée en format html, j'ai tenté de déposer les deux cartes sur Github, dans mon repository, sauf qu'en cliquant sur les fichiers, ne s'affichait que des lignes de codes html et pas de carte. Je dois là encore remercier Thomas, qui m'a montré la démarche qui m'a permis de vous proposer en lien les deux cartes ci-dessous !  
 
 [map1](https://Joanna16-lang.github.io/Projet-fin-semestre1/map1.html)
