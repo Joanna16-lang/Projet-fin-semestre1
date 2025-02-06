@@ -18,7 +18,7 @@ J'en ai conclu que le président s'était très largement déplacé à l'étrang
 
 ### Mon graphe sur Gephi 
 
-A partir de mes BDD Nodes et Edges, j'ai ensuite créer un graphe sur gephi pour rendre plus appréhensable mon réseau. J'ai choisis de colorer les villes qui avaient fait l'objet de déplacements comuns. Les villes rouges ont été ainsi "visitées" par Jean-Pierre Raffarin et Dominique de Villepin ; les vertes par Jean-Pierre Raffarin, Jacques Chirac et DOminique de Villepin ; les saumon par Dominique de Villepin et Jacques Chirac ; et les orange par Jacques Chirac et Jean-Pierre Raffarin.
+A partir de mes BDD Nodes et Edges, j'ai ensuite créer un graphe sur gephi pour rendre plus appréhendable mon réseau. J'ai choisis de colorer les villes qui avaient fait l'objet de déplacements comuns. Les villes rouges ont été ainsi "visitées" par Jean-Pierre Raffarin et Dominique de Villepin ; les vertes par Jean-Pierre Raffarin, Jacques Chirac et DOminique de Villepin ; les saumon par Dominique de Villepin et Jacques Chirac ; et les orange par Jacques Chirac et Jean-Pierre Raffarin.
 
 ![Gephi](https://github.com/user-attachments/assets/5e947292-8a40-4b67-8aa2-e977321998f4)
 
