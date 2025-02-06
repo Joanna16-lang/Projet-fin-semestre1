@@ -1,7 +1,7 @@
-# Projet-fin-semestre1  
+# Projet-fin-S1  
 
 
-[map1](https://Joanna16-lang.github.io/Projet-fin-semestre1/map1.html)
+## Mes graphes 
 
 
 voici mon premier graphe
@@ -15,6 +15,6 @@ et voici le deuxieme graphe
 ![Graphe2](https://github.com/user-attachments/assets/71a741fa-7f0a-4ef1-940f-7eb7ea771ebf)
 
 
-
+[map1](https://Joanna16-lang.github.io/Projet-fin-semestre1/map1.html)
 
 
