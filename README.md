@@ -10,11 +10,14 @@ Tout d'abord, le premier code que j'ai réalisé sur RStudio m'a permis de produ
 
 J'ai pu en conclure que le président s'est nettement moins déplacé que ses ministres et qu'entre ces derniers, Jean-Pierre Raffarin est celui qui a le plus voyagé.
 
-Le deuxième code m'a ensuite fourni un graphe (voir ci-après) à l'aide duquel j'ai pu évalué la proportion des déplacements en France et à l'étranger par personne.
+Le deuxième code m'a ensuite fourni un graphe (voir ci-après), à l'aide duquel j'ai pu évalué la proportion des déplacements en France et à l'étranger par personne.
 
 ![Graphe2](https://github.com/user-attachments/assets/71a741fa-7f0a-4ef1-940f-7eb7ea771ebf)
 
-J'en ai conclu que le président s'était très largement déplacé à l'étranger, contrairement à ses premiers ministres, qui se sont majoritairement déplacé en France. 
+J'en ai conclu que le président s'est très largement déplacé à l'étranger, contrairement à ses premiers ministres, qui se sont majoritairement déplacé en France.
+
+
+![Gephi](https://github.com/user-attachments/assets/5e947292-8a40-4b67-8aa2-e977321998f4)
 
 ### Mes cartes 
 
