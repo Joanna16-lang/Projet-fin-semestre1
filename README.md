@@ -4,11 +4,13 @@ Pour ce projet, je suis partie d'un jeu de données sur les déplacements des pr
 
 ### Mes graphes 
 
-voici mon premier graphe
+Tout d'abord, le premier code que j'ai réalisé sur RStudio m'a permis de produire un graphe (voir ci-après) grâce auquel j'ai pu comparer le nombre de déplacements en France et à l'étranger par personne durant les cins années du mandat présidentiel, entre Jacques Chirac et ses premiers ministres, successivement Jean-Pierre Raffarin et Dominique de Villepin. 
 
 ![Graphe1](https://github.com/user-attachments/assets/6d2ade17-3092-4532-9d3d-2099ebb3b288)
 
+J'ai pu en conclure que le président s'est nettement moins déplacé que ses ministres et qu'entre ces derniers, Jean-Pierre Raffarin est celui qui a le plus voyagé.
 
+Le deuxième code m'a ensuite fourni un graphe (voir ci-après) au travers duquel j'ai pu évalué 
 
 et voici le deuxieme graphe 
 
