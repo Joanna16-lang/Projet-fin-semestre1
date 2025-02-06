@@ -18,6 +18,7 @@ J'en ai conclu que le président s'est très largement déplacé à l'étranger,
 
 ### Mon graphe sur Gephi 
 
+A partir de mes BDD Nodes et Edges, j'ai ensuite créer un graphe sur gephi pour rendre plus appréhensable mon réseau. 
 
 ![Gephi](https://github.com/user-attachments/assets/5e947292-8a40-4b67-8aa2-e977321998f4)
 
