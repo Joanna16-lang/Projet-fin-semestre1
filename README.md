@@ -18,14 +18,17 @@ J'en ai conclu que le président s'était très largement déplacé à l'étrang
 
 ### Mon graphe sur Gephi 
 
-A partir de mes BDD nodes et edges, j'ai ensuite créé un graphe sur gephi pour rendre plus appréhendable mon réseau. J'ai choisi de colorer les villes qui avaient fait l'objet de déplacements communs. Les villes rouges ont été ainsi "visitées" par Jean-Pierre Raffarin et Dominique de Villepin ; les vertes par Jean-Pierre Raffarin, Jacques Chirac et DOminique de Villepin ; les saumons par Dominique de Villepin et Jacques Chirac ; et les oranges par Jacques Chirac et Jean-Pierre Raffarin. Je n'ai pas réussi à comprendre pourquoi trois villes s'étaient désolidarisées du noeud "dominique de Villepin".
+A partir de mes BDD nodes et edges, j'ai ensuite créé un graphe sur gephi pour rendre plus appréhendable mon réseau. J'ai choisi de colorer les villes qui avaient fait l'objet de déplacements communs. Les villes rouges ont été ainsi "visitées" par Jean-Pierre Raffarin et Dominique de Villepin ; les vertes par Jean-Pierre Raffarin, Jacques Chirac et DOminique de Villepin ; les saumons par Dominique de Villepin et Jacques Chirac ; et les oranges par Jacques Chirac et Jean-Pierre Raffarin. 
+
+Je n'ai pas réussi à comprendre pourquoi trois villes s'étaient désolidarisées du noeud "dominique de Villepin".
 
 ![Gephi](https://github.com/user-attachments/assets/5e947292-8a40-4b67-8aa2-e977321998f4)
 
 ### Mes cartes sur RStudio
 
 La dernière étape de mon travail a été de réaliser la carte interactive. J'en ai d'abord obtenu une première version (map1), que j'ai tenté d'enrichir sur une seconde version (map2) sans succès. Au lieu de la supprimer, j'ai trouvé plus intéressant de la conserver et de vous la partager. Le détail des problèmes que j'ai rencontré est énoncé dans ma vidéo. 
-Une fois terminée et enregistrée en format html, j'ai tenté de déposer les deux cartes sur Github, dans mon repository, sauf qu'en cliquant sur les fichiers, ne s'affichait que des lignes de codes html et pas de carte. Je dois là encore remercier Thomas, qui m'a montré la démarche qui m'a permis de vous proposer en lien les deux cartes ci-dessous !  
+
+Une fois terminées et enregistrées en format html, j'ai tenté de déposer les deux cartes sur Github, dans mon repository, sauf qu'en cliquant ultérieurement sur les fichiers, ne s'affichait que des lignes de codes en html et pas de carte. Je dois là encore remercier Thomas, qui m'a montré la démarche pour corriger l'erreur et qui m'a ainsi permis de vous proposer en lien les deux cartes ci-dessous !  
 
 [map1](https://Joanna16-lang.github.io/Projet-fin-semestre1/map1.html)
 
