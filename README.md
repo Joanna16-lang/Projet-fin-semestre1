@@ -20,4 +20,4 @@ J'en ai conclu que le président s'était très largement déplacé à l'étrang
 
 [map1](https://Joanna16-lang.github.io/Projet-fin-semestre1/map1.html)
 
-
+[map2](https://Joanna16-lang.github.io/Projet-fin-semestre1/map2.html)
