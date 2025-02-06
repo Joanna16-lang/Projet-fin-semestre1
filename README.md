@@ -4,7 +4,7 @@ Pour ce projet, je suis partie d'un jeu de données sur les déplacements des pr
 
 ### Mes graphes  
 
-Tout d'abord, le premier code que j'ai réalisé sur RStudio m'a permis de produire un graphe (voir ci-après) grâce auquel j'ai pu comparer le nombre de déplacements en France et à l'étranger par personne durant les cins années du mandat présidentiel, entre Jacques Chirac et ses premiers ministres, successivement Jean-Pierre Raffarin et Dominique de Villepin. 
+Tout d'abord, le premier code que j'ai réalisé sur RStudio m'a permis de produire un graphe (voir ci-après) grâce auquel j'ai pu comparer le nombre de déplacements en France et à l'étranger par personne durant les cins années du mandat présidentiel, entre Jacques Chirac et ses premiers ministres, successivement Jean-Pierre Raffarin et Dominique de Villepin.  
 
 ![Graphe1](https://github.com/user-attachments/assets/6d2ade17-3092-4532-9d3d-2099ebb3b288)
 
