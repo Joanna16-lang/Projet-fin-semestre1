@@ -6,6 +6,9 @@ voivi mo graph
 
 
 
+le deuxieme
+
+![Graphe2](https://github.com/user-attachments/assets/71a741fa-7f0a-4ef1-940f-7eb7ea771ebf)
 
 
 
